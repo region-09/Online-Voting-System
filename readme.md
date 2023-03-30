@@ -1,5 +1,4 @@
 # Ruslanov Almaz
-# FX29QL
 Web-programming - PHP home assignment
 This solution was submitted by the stundent named above for a Web-programming assignment.
 Hereby I declare that the solution is my own work. I did not copy or use solutions from a third party. I did not share this solution with fellow students, and I did not publish it. 
