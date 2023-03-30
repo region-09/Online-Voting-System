@@ -1,0 +1,44 @@
+{
+    "63ae4b6d6ccfc": {
+        "id": "63ae4b6d6ccfc",
+        "username": "b",
+        "email": "b@gmail.com",
+        "password": "$2y$10$CeexIRp3OSjRvzKmOu4.aeh5Rp0iwA9S9YlHCm..ow\/rbAaQSFhY.",
+        "isAdmin": false
+    },
+    "63b2bae4af160": {
+        "id": "63b2bae4af160",
+        "username": "c",
+        "email": "c@gmail.com",
+        "password": "$2y$10$0wO\/RLi98hfA1QlXV3FI.e1M8Zbyr13WUhoVQaeOKrvzbxsGi7GGS",
+        "isAdmin": false
+    },
+    "63b2c10602990": {
+        "id": "63b2c10602990",
+        "username": "admin",
+        "email": "ruslanovich.ik@gmail.com",
+        "password": "$2y$10$EuVpTheggcsQQAfRYauyBuC3WNhyCnMTUMRsyB.KS7HFHGDbBlMA.",
+        "isAdmin": true
+    },
+    "63b2d17928925": {
+        "id": "63b2d17928925",
+        "username": "a",
+        "email": "a@gmail.com",
+        "password": "$2y$10$fPO4Z3WaPGxZPnMXzZbNwuxHail7KEalg1mJSDT9lOXpW7TV4zDXW",
+        "isAdmin": false
+    },
+    "63b54ab0baba2": {
+        "id": "63b54ab0baba2",
+        "username": "d",
+        "email": "d@gmail.com",
+        "password": "$2y$10$WlWJQJ9k7KQlorYptf8\/KONE9eUkWlEWQqJei8k3JKThRsGjD1noK",
+        "isAdmin": false
+    },
+    "63b550ba8fdf0": {
+        "id": "63b550ba8fdf0",
+        "username": "almaz",
+        "email": "almaz@gmail.com",
+        "password": "$2y$10$LDsoOIh7qIGngPRc5WJ3XOF7jfyt7mcJ3R73z68\/XbRJP5jekYV3O",
+        "isAdmin": false
+    }
+}

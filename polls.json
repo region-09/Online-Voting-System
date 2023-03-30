@@ -1,0 +1,271 @@
+{
+    "63ae2c61521db": {
+        "question": "Kim Loh?",
+        "can_multiple": true,
+        "options": [
+            "Toha",
+            "Tomas",
+            "Teke",
+            "Almaz"
+        ],
+        "deadline": "2022-12-14",
+        "start": "2022-10-13",
+        "voted": [
+            "a",
+            "c",
+            "b"
+        ],
+        "answers": {
+            "Toha": [
+                "a",
+                "c",
+                "b"
+            ],
+            "Tomas": [
+                "c"
+            ],
+            "Teke": [
+                "a"
+            ],
+            "Almaz": [
+                "c"
+            ]
+        },
+        "id": "63ae2c61521db"
+    },
+    "63ae2cb0a3b2b": {
+        "question": "Best Place in the world?",
+        "can_multiple": true,
+        "options": [
+            "Kyrgyzstan",
+            "USA",
+            "UAE",
+            "Hungary",
+            "Russia"
+        ],
+        "deadline": "2023-02-18",
+        "start": "2023-01-03",
+        "voted": [
+            "almaz",
+            "admin",
+            "a",
+            "c",
+            "d",
+            "b"
+        ],
+        "answers": {
+            "Kyrgyzstan": [
+                "almaz",
+                "admin",
+                "a",
+                "c",
+                "d",
+                "b"
+            ],
+            "USA": [
+                "c"
+            ],
+            "UAE": [
+                "almaz",
+                "admin",
+                "d",
+                "b"
+            ],
+            "Hungary": [
+                "almaz",
+                "admin",
+                "b"
+            ],
+            "Russia": [
+                "c",
+                "d"
+            ]
+        },
+        "id": "63ae2cb0a3b2b"
+    },
+    "63aed6dda3e1c": {
+        "question": "Best Football club??",
+        "can_multiple": false,
+        "options": [
+            "MUN",
+            "CHELSEA",
+            "BAYERN MUNICH",
+            "LIVERPOOL",
+            "REAL MADRID",
+            "BARCELONA",
+            "PSG"
+        ],
+        "deadline": "2023-01-27",
+        "start": "2022-12-30",
+        "voted": [],
+        "answers": {
+            "MUN": [
+                "c",
+                "admin",
+                "almaz"
+            ],
+            "CHELSEA": [
+                "a"
+            ],
+            "BAYERN MUNICH": [],
+            "LIVERPOOL": [],
+            "REAL MADRID": [
+                "b",
+                "d"
+            ],
+            "BARCELONA": [],
+            "PSG": []
+        },
+        "id": "63aed6dda3e1c"
+    },
+    "63b2d0d044eb8": {
+        "question": "What you want for today's meal???",
+        "can_multiple": true,
+        "options": [
+            "Rice with meat",
+            "Pasta with something",
+            "Manty",
+            "Samsy",
+            "Burger",
+            "Oromo",
+            "Kurgak kesme"
+        ],
+        "deadline": "2023-01-05",
+        "start": "2023-01-03",
+        "voted": [
+            "almaz",
+            "c"
+        ],
+        "answers": {
+            "Rice with meat": [
+                "b",
+                "almaz",
+                "c"
+            ],
+            "Pasta with something": [
+                "c"
+            ],
+            "Manty": [
+                "a",
+                "admin",
+                "d"
+            ],
+            "Samsy": [
+                "a",
+                "admin",
+                "d"
+            ],
+            "Burger": [
+                "b",
+                "almaz"
+            ],
+            "Oromo": [],
+            "Kurgak kesme": [
+                "b",
+                "a",
+                "admin",
+                "d",
+                "c"
+            ]
+        },
+        "id": "63b2d0d044eb8"
+    },
+    "63b490226385e": {
+        "question": "Kim Loh??",
+        "can_multiple": true,
+        "options": [
+            "Almaz",
+            "Beka",
+            "Toha",
+            "Roha"
+        ],
+        "deadline": "2023-01-04",
+        "start": "2023-01-04",
+        "voted": [
+            "admin",
+            "almaz"
+        ],
+        "answers": {
+            "Almaz": [
+                "a",
+                "b",
+                "d",
+                "almaz"
+            ],
+            "Beka": [
+                "c",
+                "b",
+                "d",
+                "almaz"
+            ],
+            "Toha": [
+                "c",
+                "d",
+                "admin"
+            ],
+            "Roha": [
+                "c",
+                "a",
+                "d",
+                "admin"
+            ]
+        },
+        "id": "63b490226385e"
+    },
+    "63b5501d02f26": {
+        "question": "The best footballer?????",
+        "can_multiple": true,
+        "options": [
+            "Messi",
+            "Cristiano Ronaldo",
+            "Kylian Mbappe",
+            "Harry Kane",
+            "Harry Maguire",
+            "Robert Levandowski"
+        ],
+        "deadline": "2023-01-04",
+        "start": "2023-01-04",
+        "voted": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "almaz"
+        ],
+        "answers": {
+            "Messi": [
+                "admin",
+                "a",
+                "b",
+                "d",
+                "almaz"
+            ],
+            "Cristiano Ronaldo": [
+                "admin",
+                "a",
+                "b",
+                "c",
+                "almaz"
+            ],
+            "Kylian Mbappe": [
+                "admin",
+                "c",
+                "d"
+            ],
+            "Harry Kane": [
+                "a",
+                "d",
+                "almaz"
+            ],
+            "Harry Maguire": [
+                "c"
+            ],
+            "Robert Levandowski": [
+                "a",
+                "b",
+                "almaz"
+            ]
+        },
+        "id": "63b5501d02f26"
+    }
+}

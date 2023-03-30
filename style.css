@@ -1,0 +1,27 @@
+div {
+    width: 100%;
+}
+#vote {
+    width: fit-content;
+    height: fit-content;
+    margin: 0 auto;
+    font-size: 20px;
+}
+li {
+    border-style: solid;
+    margin-bottom: 10px;
+    width: fit-content;
+    background-color: coral;
+}
+#description > p {
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
+.error {
+    color: red;
+}
+.success {
+    background-color:slateblue;
+    color:beige;
+}
